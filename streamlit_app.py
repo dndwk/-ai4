@@ -72,18 +72,18 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["나선팔이 존재한다"],
-       "images": [""],
-       "videos": [""]
+       "images": ["https://ko.wikipedia.org/wiki/%EB%82%98%EC%84%A0_%EC%9D%80%ED%95%98"],
+       "videos": ["https://www.youtube.com/watch?v=Xvgm0YWitYk"]
      },
      labels[1]: {
        "texts": ["나선은하도, 타원은하도 아닌 불규칙한 모양이다"],
-       "images": [""],
-       "videos": [""]
+       "images": ["https://www.wikiwand.com/ko/articles/%EB%B6%88%EA%B7%9C%EC%B9%99%EC%9D%80%ED%95%98"],
+       "videos": ["https://www.youtube.com/watch?v=iLCekfmos7c"]
      },
      labels[2]: {
        "texts": ["타원모양이"],
-       "images": [""],
-       "videos": [""]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N1MxCPdgwt0aYQtrPLzNnOid4L6b37Zhxw&s"],
+       "videos": ["https://www.youtube.com/watch?v=LyBmHCdsqI8"]
      },
 }
 
