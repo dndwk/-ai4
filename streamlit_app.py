@@ -71,17 +71,17 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": [""],
+       "texts": ["나선팔이 존재한다"],
        "images": [""],
        "videos": [""]
      },
      labels[1]: {
-       "texts": [""],
+       "texts": ["나선은하도, 타원은하도 아닌 불규칙한 모양이다"],
        "images": [""],
        "videos": [""]
      },
      labels[2]: {
-       "texts": [""],
+       "texts": ["타원모양이"],
        "images": [""],
        "videos": [""]
      },
